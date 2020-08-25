@@ -4,13 +4,19 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# This is markdown
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## This is markdown
 
-What else do you need?
+### Smaller header
 
-### My story
+---
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[Google.com](https://google.com)
+
+![Image of a Penguin](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SGI-2016-South_Georgia_%28Fortuna_Bay%29%E2%80%93King_penguin_%28Aptenodytes_patagonicus%29_04.jpg/1200px-SGI-2016-South_Georgia_%28Fortuna_Bay%29%E2%80%93King_penguin_%28Aptenodytes_patagonicus%29_04.jpg)
+
+- A 
+- Bulleted
+- List
+
